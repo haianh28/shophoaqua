@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/shophoaqua/controller/ApiController.java=UTF-8
+encoding//src/main/java/shophoaqua/controller/DangNhapController.java=UTF-8
+encoding//src/main/java/shophoaqua/controller/GioHangController.java=UTF-8
+encoding//src/main/java/shophoaqua/controller/TrangChuController.java=UTF-8
+encoding//src/main/java/shophoaqua/dao/HoaDonDAO.java=UTF-8
+encoding//src/main/java/shophoaqua/dao/NhanVienDAO.java=UTF-8
+encoding//src/main/java/shophoaqua/dao/SanPhamDAO.java=UTF-8
+encoding//src/main/java/shophoaqua/service/HoaDonService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/giohang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/trangchu.jsp=UTF-8
+encoding//src/main/webapp/resource/Css/style-custom.css=UTF-8
+encoding//src/main/webapp/resource/Css/style.css=UTF-8
